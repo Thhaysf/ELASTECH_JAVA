@@ -12,7 +12,6 @@ public class AtividadeMetodos01 {
         System.out.println("Digite o primeiro número inteiro: ");
         int numero1 = sc.nextInt();
 
-    mostrarBoasVindas();
         System.out.println("Digite o segundo número inteiro: ");
         int numero2 = sc.nextInt();
 
