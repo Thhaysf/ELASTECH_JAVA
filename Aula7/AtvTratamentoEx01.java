@@ -1,0 +1,17 @@
+package Aula7;
+
+public class AtvTratamentoEx01{
+  public static void main(String[] args) {
+    /*1 — Na mesma classe do main, crie um método chamado mostrarBoasVindas() que imprime "Bem-vinda ao curso de Java!". Chame ele no main.
+
+⚠️ O método vai fora do main, mas dentro da classe, no mesmo nível do main, logo abaixo dele. Se você tentar criar um método dentro do main, não compila.
+     */
+
+    mostrarBoasVindas();
+
+  }
+    public static void mostrarBoasVindas() {
+    System.out.println("Bem-vinda ao curso de Java!");
+  }
+}
+
