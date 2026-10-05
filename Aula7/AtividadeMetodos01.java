@@ -4,22 +4,15 @@ import java.util.Scanner;
 
 public class AtividadeMetodos01 {
   public static void main(String[] args) {
-    /*
-    1 — Faça um programa que peça dois números inteiros e mostre a divisão do primeiro pelo segundo. Se a pessoa digitar 0 no segundo, trate a ArithmeticException e mostre uma mensagem explicando que não dá pra dividir por zero.
- */
-    Scanner sc = new Scanner(System.in);
-    try {
-        System.out.println("Digite o primeiro número inteiro: ");
-        int numero1 = sc.nextInt();
+    /*1 — Na mesma classe do main, crie um método chamado mostrarBoasVindas() que imprime "Bem-vinda ao curso de Java!". Chame ele no main.
+
+⚠️ O método vai fora do main, mas dentro da classe, no mesmo nível do main, logo abaixo dele. Se você tentar criar um método dentro do main, não compila.
+     */
 
     mostrarBoasVindas();
-        System.out.println("Digite o segundo número inteiro: ");
-        int numero2 = sc.nextInt();
 
-        System.out.println("O resultado da divisão é : " + numero1/numero2);
-}
-catch (ArithmeticException e){
-  System.out.println("Não é possivel divisão por zero.");
-}
+  }
+    public static void mostrarBoasVindas() {
+    System.out.println("Bem-vinda ao curso de Java!");
   }
 }
