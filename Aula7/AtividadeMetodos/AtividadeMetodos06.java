@@ -1,4 +1,4 @@
-package Aula7;
+package Aula7.AtividadeMetodos;
 
 public class AtividadeMetodos06 {
   public static void main(String[] args) {

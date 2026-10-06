@@ -1,4 +1,4 @@
-package Aula7;
+package Aula7.AtvTratamentoEx;
 
 public class AtvTratamentoEx04 {
   public static void main(String[] args) {

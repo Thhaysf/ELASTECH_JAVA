@@ -1,4 +1,4 @@
-package Aula7;
+package Aula7.AtividadeMetodos;
 
 import java.util.Scanner;
 
