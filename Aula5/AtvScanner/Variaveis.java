@@ -1,4 +1,4 @@
-package Aula5;
+package Aula5.AtvScanner;
 
 public class Variaveis {
 
