@@ -11,7 +11,10 @@ um que recebe dois decimais
 
 No main, chame os três e veja o Java escolher sozinho qual usar.
    */
-
+   UtilidadesVariavel.soma(2, 3);
+   UtilidadesVariavel.soma(2 , 3 ,5);
+   UtilidadesVariavel.soma(2.5 , 3.8);
 
 }
+
 }
