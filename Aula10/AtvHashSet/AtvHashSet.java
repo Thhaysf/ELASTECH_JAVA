@@ -1,4 +1,4 @@
-package Aula10;
+package Aula10.AtvHashSet;
 
 import java.util.ArrayList;
 import java.util.HashSet;
@@ -6,9 +6,7 @@ import java.util.HashSet;
 public class AtvHashSet {
   public static void main(String[] args) {
     /*
-    1. Crie um HashSet de nomes e adicione quatro valores, sendo um deles
-   repetido. Imprima o conjunto e o tamanho. Repare no que aconteceu
-   com o repetido.
+    
 
 2. Crie um HashSet de cores usando addAll. Depois use contains dentro
    de um if para avisar se a cor "verde" já está no conjunto ou não.
