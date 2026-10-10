@@ -9,6 +9,13 @@ public class AtvHashSetQ01 {
    com o repetido. */
 
    HashSet<String> nomes = new HashSet<>();
-    
+  nomes.add("João");
+  nomes.add("Luana");
+  nomes.add("João");
+  nomes.add("Cibele");
+System.out.println(nomes);
+        System.out.println(nomes.size());
+
+
   }
 }
