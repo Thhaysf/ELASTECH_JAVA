@@ -1,6 +1,5 @@
 package Aula10.AtvHashMap;
 
-import java.lang.reflect.AnnotatedArrayType;
 import java.util.HashMap;
 
 public class AtvHashMapQ03 {

@@ -1,4 +1,4 @@
-package Aula0810;
+package aula0810;
 
 public class AtvPolimorfismoQ2 {
   public static void main(String[] args) {
