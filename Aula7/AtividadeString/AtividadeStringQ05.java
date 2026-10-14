@@ -1,4 +1,4 @@
-package Aula7.AtividadeString;
+package aula7.atividadestring;
 
 import java.util.Scanner;
 

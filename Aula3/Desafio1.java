@@ -1,4 +1,4 @@
-package Aula3;
+package aula3;
 
 public class Desafio1 {
 public static void main(String[] args) {        /* Desafio: Crie uma variável com 3785 segundos. Mostre quantos minutos inteiros isso dá e quantos segundos sobram.

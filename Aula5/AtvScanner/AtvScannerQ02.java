@@ -1,4 +1,4 @@
-package Aula5.AtvScanner;
+package aula5.atvscanner;
 
 import java.util.Scanner;
 

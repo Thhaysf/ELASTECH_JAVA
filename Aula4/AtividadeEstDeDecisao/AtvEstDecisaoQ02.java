@@ -1,4 +1,4 @@
-package Aula4.AtividadeEstDeDecisao;
+package aula4.atividadeestdedecisao;
 
 public class AtvEstDecisaoQ02{ 
 public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package Aula5.AtvEstRepeticao;
+package aula5.atvestrepeticao;
 
 public class AtvEstRepeticaoQ01 {
   public static void main(String[] args) {

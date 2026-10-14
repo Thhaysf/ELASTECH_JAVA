@@ -1,4 +1,4 @@
-package Aula4.AtividadeRelacionais;
+package aula4.atividaderelacionais;
 
 public class AtvRelacionaisQ02 {
   public static void main(String[] args) {

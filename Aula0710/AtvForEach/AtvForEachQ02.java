@@ -1,4 +1,4 @@
-package Aula0710.AtvForEach;
+package aula0710.AtvForEach;
 
 import java.util.ArrayList;
 import java.util.List;

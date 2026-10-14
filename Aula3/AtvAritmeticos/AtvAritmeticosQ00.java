@@ -1,4 +1,4 @@
-package Aula3.AtvAritmeticos;
+package aula3.atvaritmeticos;
 
 public class AtvAritmeticosQ00 {
   public static void main(String[] args) {

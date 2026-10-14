@@ -1,4 +1,4 @@
-package Aula7;
+package aula7;
 
 public class ArraysQ01 {
   public static void main(String[] args) {

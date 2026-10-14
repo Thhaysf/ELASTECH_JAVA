@@ -1,4 +1,4 @@
-package Aula0710.AtvForEach;
+package aula0710.AtvForEach;
 
 public class AtvForEachQ0105 {
   public static void main(String[] args) {

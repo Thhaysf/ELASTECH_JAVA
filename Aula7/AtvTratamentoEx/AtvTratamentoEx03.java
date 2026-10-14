@@ -1,4 +1,4 @@
-package Aula7.AtvTratamentoEx;
+package aula7.atvtratamentoex;
 
 import java.util.InputMismatchException;
 import java.util.Scanner;

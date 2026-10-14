@@ -1,4 +1,4 @@
-package Aula7.AtvTratamentoEx;
+package aula7.atvtratamentoex;
 
 public class AtvTratamentoEx07 {
   

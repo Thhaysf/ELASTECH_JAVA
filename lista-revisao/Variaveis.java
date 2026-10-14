@@ -20,6 +20,8 @@ Crie uma variável temCarteira com true e imprima.
 💡 Se você fizer a = b, o valor antigo de a se perde. Você vai precisar de uma terceira variável pra guardar alguma coisa antes. */
 
 String nome = "Thayná";
+int idade = 31;
+
 
   }
 }

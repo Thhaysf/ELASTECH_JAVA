@@ -1,4 +1,4 @@
-package Aula0710;
+package aula0710;
 
 public interface Animal {
 
