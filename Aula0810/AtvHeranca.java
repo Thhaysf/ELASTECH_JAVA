@@ -1,4 +1,4 @@
-package Aula0810.AtvHeranca;
+package Aula0810;
 
 public class AtvHeranca {
   public static void main(String[] args) {

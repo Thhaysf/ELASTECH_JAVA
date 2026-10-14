@@ -1,4 +1,4 @@
-package Aula0810.AtvHeranca;
+package Aula0810;
 
 public class Aluna extends Pessoa {
   
@@ -6,7 +6,7 @@ public class Aluna extends Pessoa {
   String curso;
 
   public void estudar () {
-  System.out.println(nome + "está estudando " + curso + ".");
+  System.out.println(nome + " está estudando " + curso + ".");
   }
 }
 
