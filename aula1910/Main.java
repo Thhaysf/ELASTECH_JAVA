@@ -15,9 +15,8 @@ brinquedos.nome = "Barbie";
         brinquedos.verBrinquedos(brinquedos);
 
 
- Bebe aurora = new Bebe("Aurora", "19/10/2026");
-aurora.nome = "Aurora";
-aurora.dataDeNascimento = "19/10/2026";
+ Bebe aurora = new Bebe("Aurora", "19/10/2016");
+
 System.out.println("o nome da criança é: " + aurora.nome);
 
 }

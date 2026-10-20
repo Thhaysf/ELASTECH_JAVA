@@ -4,9 +4,9 @@ public class Bebe {
   String nome;
   String dataDeNascimento;
 
-  public Bebe(String nomeBebe, String dataDeNascimentoBebe){
-  nome = nomeBebe;
-  dataDeNascimento = dataDeNascimentoBebe;
+  public Bebe(String nome, String dataDeNascimento){
+  this.nome = nome;
+  this.dataDeNascimento = dataDeNascimento;
 
   }
 }
